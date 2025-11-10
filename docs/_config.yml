@@ -1,0 +1,7 @@
+title: Fintech Platform - Visa Network
+description: Plataforma full-stack para emisión y gestión de tarjetas tipo Visa
+theme: jekyll-theme-cayman
+show_downloads: true
+github:
+  repository_url: https://github.com/mercantilorg-crypto/fintech-network
+  is_project_page: true
