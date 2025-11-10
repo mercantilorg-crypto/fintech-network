@@ -90,4 +90,4 @@ Crear una plataforma full stack (web + móvil + backend) para emisión, gestión
 
 ---
 
-**¿Quieres continuar con la estructura de carpetas y archivos base para el repo ahora?**
+**Estado actual:** estructura base de backend y frontend creada; pendientes los módulos avanzados y app móvil.
